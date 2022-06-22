@@ -2,6 +2,7 @@ header {
   text-align: center;
 }
 table {
+  font-weight: bold;
   width: 50%;
   border-collapse: separate;
   text-align: center;
